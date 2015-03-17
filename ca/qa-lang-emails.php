@@ -21,7 +21,7 @@
 */
 
 	return array(
-		'a_commented_body' => "Tu respuesta en ^site_title tiene un nuevo comentario de ^c_handle:\n\n^open^c_content^close\n\nTu respuesta fue:\n\n^open^c_context^close\n\nPuedes responder añadiendo tu comentario:\n\n^url\n\nGracias,\n\n^site_title",
+		'a_commented_body' => "La teva resposta a ^site_title te un nou comentari de ^c_handle:\n\n^open^c_content^close\n\nLa teva resposta fou:\n\n^open^c_context^close\n\nPots contestar afegint el teu comentari:\n\n^url\n\nGracies,\n\n^site_title",
 		'a_commented_subject' => 'Tu respuesta en ^site_title tiene un nuevo comentario',
 		'a_followed_body' => "Tu respuesta en ^site_title tiene una nueva pregunta relacionada de ^q_handle:\n\n^open^q_title^close\n\nTu respuesta fue:\n\n^open^a_content^close\n\nHaz clic en el siguiente enlace para responder la nueva pregunta:\n\n^url\n\nGracias, \n\n^site_title",
 		'a_followed_subject' => 'Tu respuesta en ^site_title tiene una pregunta relacionada',
