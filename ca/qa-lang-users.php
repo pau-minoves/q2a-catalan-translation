@@ -63,7 +63,7 @@
 		'handle_has_bad' => "El nom d'usuario no pot contenir: ^",
 		'handle_label' => "Nom d'usuari:",
 		'hide_all_user_button' => "Amagar publicacions d'aquest usuari",
-		'last_login_label' => 'Última entrada:'
+		'last_login_label' => 'Última entrada:',
 		'last_write_label' => 'Última publicació:',
 		'level_admin' => 'Administrador',
 		'level_editor' => 'Editor',
@@ -72,7 +72,7 @@
 		'level_in_general' => 'en general',
  		'level_moderator' => 'Moderador',
 		'level_super' => 'Super Administrador',
-		'location' => 'Ubicació'
+		'location' => 'Ubicació',
 		'login_button' => 'Entrar',
 		'login_limit' => "Massa intents d'ingrés - si us plau, intenta-ho novament en una hora",
 		'login_title' => 'Entrar',
@@ -85,7 +85,7 @@
 		'new_password_2' => 'Repeteix la nova contrasenya:',
 		'no_blocked_users' => "No s'han trobat usuaris bloquejats",
 		'no_permission' => 'No tens permís per realitzar aquesta acció',
-		'old_password' => 'Contrasenya antiga:'
+		'old_password' => 'Contrasenya antiga:',
 		'only_shown_admins' => '(només mostrat a administradors)',
 		'only_shown_editors' => '(només mostrat a editors o de nivell més alt)',
 		'only_shown_experts' => '(només mostrat a experts o de nivell més alt)',
@@ -109,7 +109,7 @@
 		'register_title' => 'Registrar-se com un usuari nou',
 		'remember_label' => 'Recordeume en aquest ordinador',
 		'remember' => 'Recordar',
-		'remove_avatar' => 'treure avatar:'
+		'remove_avatar' => 'treure avatar:',
 		'reset_code_another' => 'enviar un altre',
 		'reset_code_emailed' => 'El teu codi de reset ha estat enviat per email',
 		'reset_code_label' => 'Codi:',
