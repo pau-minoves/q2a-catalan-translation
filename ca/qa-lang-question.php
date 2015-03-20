@@ -133,7 +133,7 @@
 		'q_notify_label' => 'Notificar-me per email si la meva pregunta és resposta o comentada',
 		'q_notify_x_label' => 'Notificar-me per email (^) si la meva pregunta és resposta o comentada',
 		'q_tags_comma_label' => 'Etiquetes - utilitza coma (,) com separador:',
-		'q_tags_label' => 'Etiquetas - utilitza guió mitjà per combinar paraules:',
+		'q_tags_label' => 'Etiquetes - utilitza guió mitjà per combinar paraules:',
 		'q_title_label' => 'La teva pregunta en una frase:',
 		'q_waiting_approval' => 'Aquesta pregunta espera aprovació',
 		'q_waiting_your_approval' => 'Aquesta pregunta espera la teva aprovació',
