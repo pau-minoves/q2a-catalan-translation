@@ -8,7 +8,7 @@
 
 This translation is based on the spanish translation files at:
 
-https://github.com/pupi1985/q2a-spanish-translation
+https://github.com/pupi1985/q2a-spanish-translation (so thanks to @pupi1985)
 
 a was created for hosting at:
 
