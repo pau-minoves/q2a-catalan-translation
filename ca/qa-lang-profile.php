@@ -48,7 +48,7 @@
 		'permit_edit_q' => 'Editar qualsevol pregunta',
 		'permit_edit_silent' => 'Editar publicacions de manera silenciosa',
 		'permit_flag' => 'Marcar publicacions',
-		'permit_hide_show' => 'Amagar o mostrar qualsevol publicació',
+		'permit_hide_show' => 'Ocultar o mostrar qualsevol publicació',
 		'permit_moderate' => 'Aprovar o rebutjar entrades',
 		'permit_post_a' => 'Contestar pregunta',
 		'permit_post_c' => 'Afegir comentaris',
