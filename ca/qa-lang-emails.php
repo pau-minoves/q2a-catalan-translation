@@ -37,9 +37,9 @@
 		'flagged_subject' => '^site_title té una publicació marcada',
 		'moderate_body' => "Una entrada de ^p_handle requereix la teva aprovació:\n\n^open^p_context^close\n\nFes clic al següent enllaç per aprovar o rebutjar l'entrada:\n\n^url\n\n\nFes clic al següent enllaç per revisar totes les entrades:\n\n^a_url\n\n\nGràcies,\n\n^site_title",
 		'moderate_subject' => 'Moderació de ^site_title',
-		'new_password_body' => "La teva nova contrasenya per a ^site_title és la següent.\n\nContrasenya: ^password\n\nEt recomanem que canviïs aquesta contrasenya immediatament després d'ingressar a la pàgina web.\n\nGràcies, \n^site_title\n^url",
+		'new_password_body' => "La teva nova contrasenya per a ^site_title és la següent.\n\nContrasenya: ^password\n\nEt recomanem que canviïs aquesta contrasenya immediatament després d'entrar a la pàgina web.\n\nGràcies, \n^site_title\n^url",
 		'new_password_subject' => '^site_title - La teva nova contrasenya',
-		'private_message_body' => "T'ha enviat un missatge privat ^f_handle en ^site_title:\n\n^open^message^close\n\n^moreGracies,\n\n^site_title\n\n\nPer bloquejar missatges privats visita la pàgina del teu compte:\n^a_url",
+		'private_message_body' => "T'ha enviat un missatge privat ^f_handle en ^site_title:\n\n^open^message^close\n\n^moreGràcies,\n\n^site_title\n\n\nPer bloquejar missatges privats visita la pàgina del teu compte:\n^a_url",
 		'private_message_info' => "Més informació sobre ^f_handle:\n\n^url\n\n",
 		'private_message_reply' => "Fes clic al següent enllaç per contestar a ^f_handle per missatge privat :\n\n^url\n\n",
 		'private_message_subject' => 'Missatge de ^f_handle en ^site_title',
@@ -63,5 +63,5 @@
 		'wall_post_subject' => 'Publicació en el teu mur de ^site_title',
 		'welcome_body' => "Moltes gràcies per registrar-te a ^site_title.\n\n^custom^confirmLes teves dades d'ingrés són les següents:\n\nUsuari: ^handle\nEmail: ^email\n\nSi us plau, tingues aquesta informació a mà i en un lloc segur.\n\nGràcies, \n\n^site_title\n^url",
 		'welcome_confirm' => "Si us plau, fes clic en l'enllaç següent per confirmar el teu email.\n\n^url\n\n",
-		'welcome_subject' => '¡Benvingut a ^site_title!',
+		'welcome_subject' => '¡Benvingut/da a ^site_title!',
 	);
