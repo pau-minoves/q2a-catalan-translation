@@ -239,7 +239,7 @@
 		'show_custom_sidepanel' => 'HTML personalitzat en el panell lateral de cada pàgina:',
 		'show_custom_welcome' => "Missatge personalitzat en l'email enviat a nous usuaris registrats:",
 		'show_fewer_cs_count' => 'Si parcialment ocult, mostrar més recent:',
-		'show_fewer_cs_from' => 'Amagar comentaris parcialment si hi ha més de:',
+		'show_fewer_cs_from' => 'Ocultar comentaris parcialment si hi ha més de:',
 		'show_full_date_days' => 'Mostrar data completa després de:',
 		'show_home_description' => "Incloure descripció <META> a la pàgina d'inici:",
 		'show_if_no_as' => 'Si no hi ha respostes',
