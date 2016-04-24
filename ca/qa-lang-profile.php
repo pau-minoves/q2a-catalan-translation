@@ -35,7 +35,7 @@
 		'extra_privileges' => 'Privilegis addicionals:',
 		'gave_out' => 'Atorgats:',
 		'my_account_title' => 'El meu compte',
-		'no_answers_by_x' => 'No hi ha resposta de ^',
+		'no_answers_by_x' => 'No hi ha opinió de ^',
 		'no_answers_by_x' => 'No hi ha respostes de ^',
 		'no_posts_by_x' => 'No hi ha entrades de ^',
 		'no_questions_by_x' => 'No hi ha preguntes de ^',
