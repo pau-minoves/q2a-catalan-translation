@@ -56,7 +56,7 @@
 		'cancel_mailing_button' => "Cancel·lar enviament d'emails",
 		'categories' => 'Categories',
 		'categories_introduction' => 'Per començar a afegir categories, prem el botó \'Afegir categoria\'.',
-		'categories_not_shown' => 'Algunes preguntes tenen categories que no es mostraran.',
+		'categories_not_shown' => 'Alguns debats tenen categories que no es mostraran.',
 		'categories_title' => 'Categories',
 		'category_added' => 'Categoria afegida',
 		'category_add_sub' => 'afegir subcategoria',
