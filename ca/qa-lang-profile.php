@@ -56,7 +56,7 @@
 		'permit_post_wall' => "Publicar en el mur d'altres usuaris",
 		'permit_recat' => 'Recategoritzar qualsevol debat',
 		'permit_retag' => 'Reetiquetar qualsevol debat',
-		'permit_select_a' => 'Seleccionar una opinió d'un debat',
+		'permit_select_a' => "Seleccionar una opinió d'un debat",
 		'permit_view_q_page' => 'Veure les pàginas de debats',
 		'permit_view_voters_flaggers' => 'Veure qui ha votat o marcat publicacions',
 		'permit_vote_a' => 'Votar les opinions',
