@@ -105,7 +105,7 @@
 		'nav_hot' => 'Amb més activitat',
 		'nav_login' => 'Entrar',
 		'nav_logout' => 'Sortir',
-		'nav_most_answers' => 'Amb més comentaris',
+		'nav_most_answers' => 'Amb més opinions',
 		'nav_most_recent' => 'Més recents',
 		'nav_most_views' => 'Amb més visites',
 		'nav_most_votes' => 'Amb més vots',
