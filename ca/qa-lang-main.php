@@ -47,7 +47,7 @@
 		'answer_edited' => 'opinió editada',
 		'answered_qs_in_x' => 'Debats amb més opinions en ^',
 		'answered_qs_title' => 'Debats amb més opinions',
-		'answered' => 'opinió',
+		'answered' => 'opinió més recent',
 		'answer_reshown' => 'opinió mostrada de nou',
 		'answer_selected' => 'opinió seleccionada',
 		'asked' => 'proposat',
