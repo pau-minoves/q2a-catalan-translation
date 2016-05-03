@@ -50,7 +50,7 @@
 		'answered' => 'opinió',
 		'answer_reshown' => 'opinió mostrada de nou',
 		'answer_selected' => 'opinió seleccionada',
-		'asked' => 'proposat',
+		'asked' => 'proposta',
 		'asked_related_q' => 'debat relacionat',
 		'by_x' => 'de: ^',
 		'cancel_button' => 'Cancel·la',
