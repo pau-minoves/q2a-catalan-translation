@@ -113,7 +113,7 @@
 		'nav_no_selected_answer' => 'Sense resposta seleccionada',
 		'nav_no_upvoted_answer' => 'Sense resposta amb vots positius',
 		'nav_qa' => 'Q&A',
-		'nav_qs' => 'Debats',
+		'nav_qs' => 'Debats actius',
 		'nav_register' => 'Registre',
 		'nav_tags' => 'Etiquetes',
 		'nav_unanswered' => 'Sense opinió',
