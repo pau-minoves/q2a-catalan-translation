@@ -55,7 +55,7 @@
 		'by_x' => 'de: ^',
 		'cancel_button' => 'Cancel·la',
 		'closed' => 'tancada',
-		'commented' => 'comentat',
+		'commented' => 'comentari',
 		'comment_edited' => 'comentari editat',
 		'comment_moved' => 'comentari mogut',
 		'comment_reshown' => 'comentari mostrat de nou',
