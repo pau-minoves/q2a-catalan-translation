@@ -43,7 +43,7 @@
 		'approve_button' => 'Aprovar',
 		'approve_c_popup' => 'Aprovar aquest comentari',
 		'approve_q_popup' => 'Aprovar aquest debat',
-		'ask_button' => 'Publicar el debat',
+		'ask_button' => 'Enviar',
 		'ask_follow_from_a' => 'El teu debat estarà relacionat amb aquesta opinió:',
 		'ask_follow_title' => 'Proposa un debat relacionat',
 		'ask_limit' => 'Massa debats proposats - si us plau, intenta-ho novament en una hora',
