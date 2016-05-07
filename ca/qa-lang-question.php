@@ -137,7 +137,7 @@
 		'q_title_label' => 'Enunciat del debat:',
 		'q_waiting_approval' => 'Aquesta opinió espera aprovació',
 		'q_waiting_your_approval' => 'Aquesta opinió espera la teva aprovació',
-		'q_your_waiting_approval' => 'La teva opinió serà revisada aviat.',
+		'q_your_waiting_approval' => 'La teva opinió o proposta serà revisada aviat.',
 		'recat_button' => 'Recategoritzar',
 		'recat_popup' => "Canviar la categoria d'aquest debat",
 		'recat_q_title' => 'Recategoritzar debat',
