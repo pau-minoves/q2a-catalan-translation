@@ -75,7 +75,7 @@
 		'date_month_8' => 'Ago',
 		'date_month_9' => 'Sep',
 		'date_year_digits' => '4',
-		'edited' => 'editat',
+		'edited' => 'edició',
 		'email_error' => "S'ha produït un error en intentar enviar l'email.",
 		'field_required' => 'Si us plau, introdueix alguna cosa en aquest camp',
 		'file_upload_limit_exceeded' => 'La mida del fitxer excedeix el límit del servidor',
