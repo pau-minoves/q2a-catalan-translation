@@ -43,7 +43,7 @@
 		'private_message_info' => "Més informació sobre ^f_handle:\n\n^url\n\n",
 		'private_message_reply' => "Fes clic al següent enllaç per contestar a ^f_handle per missatge privat :\n\n^url\n\n",
 		'private_message_subject' => 'Missatge de ^f_handle en ^site_title',
-		'q_answered_body' => "La teva opinió a ^site_title ha estat contestada per ^a_handle:\n\n^open^a_content^close\n\nEl debat era:\n\n^open^q_title^close\n\nSi t'agrada aquesta opinió, l'hauries de seleccionar com la millor:\n\n^url\n\nGràcies, \n\n^site_title",
+		'q_answered_body' => "La teva opinió a ^site_title ha estat contestada per ^a_handle:\n\n^open^a_content^close\n\nEl debat era:\n\n^open^q_title^close\n\nGràcies, \n\n^site_title",
 		'q_answered_subject' => 'El teu debat ^site_title ha estat opinat',
 		'q_commented_body' => "El teu debat ^site_title té un nou comentari de ^c_handle:\n\n^open^c_content^close\n\nEl teu debat era:\n\n^open^c_context^close\n\nHauries de contestar afegint el teu comentari:\n\n^url\n\nGràcies, \n\n^site_title",
 		'q_commented_subject' => 'El teu debat ^site_title té un nou comentari',

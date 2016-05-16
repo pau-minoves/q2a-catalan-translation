@@ -24,7 +24,7 @@
 		'block_ip_button' => 'Bloquejar adressa IP',
 		'browse_categories' => 'Navegar per categories',
 		'captcha_approve_fix' => "Aquesta verificació deixarà d'apareixer quan el teu compte sigui aprovat.",
-		'captcha_confirm_fix' => 'Per evitar aquesta verificació en el futur, si us plau, ^5confirma el teu email^6.',
+		'captcha_confirm_fix' => 'Per evitar aquesta verificació en el futur, si us plau, ^5 confirma el teu email ^6.',
 		'captcha_error' => 'Si us plau, completa la verificació anti-spam',
 		'captcha_label' => 'Verificació anti-spam:',
 		'captcha_login_fix' => "Per evitar aquesta verificació en el futur, si us plau, ^1entra^2 o ^3registra't^4.",
