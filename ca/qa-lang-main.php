@@ -156,7 +156,7 @@
 		'remove_favorites' => 'Treure dels meus favorits',
 		'remove_x_favorites' => 'Treure ^ dels meus favorits',
 		'reopened' => 'reobert',
-		'reshown' => 'mostrada de nou',
+		'reshown' => 'mostrat de nou',
 		'results_for_x' => 'Cercar resultats per ^',
 		'retagged' => 'reetiquetada',
 		'save_button' => 'Guardar canvis',
