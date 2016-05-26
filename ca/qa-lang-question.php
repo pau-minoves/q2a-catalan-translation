@@ -49,7 +49,7 @@
 		'ask_limit' => 'Massa debats proposats - si us plau, intenta-ho novament en una hora',
 		'ask_must_be_approved' => 'El teu compte ha de ser aprovat perquè puguis proposar un debat.',
 		'ask_must_confirm' => "Si us plau, ^5confirma la teva adreça d'email^6 per proposar un debat.",
-		'ask_must_login' => "Si us plau, ^1entra^2 o ^3regístra't^4 per opinar en un debat.",
+		'ask_must_login' => "Si us plau, ^1entra^2 o ^3regístra't^4 per proposar un debat.",
 		'ask_same_q' => "Abans de seguir, si us plau, comprova que el debat que proposes no s'hagi realitzat anteriorment:",
 		'ask_title' => 'Proposar un debat',
 		'a_waiting_your_approval' => 'Aquesta opinió espera la teva aprovació',
